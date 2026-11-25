@@ -1,0 +1,21 @@
+body{
+
+    background-color:green;
+font-family: vazir;
+align-content: center;
+text-align:center ;
+}
+h1.titr{
+color:blue
+}
+button {
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    border: 1px solid green;
+    font-family: Vazir;
+}
+
+
+
+
